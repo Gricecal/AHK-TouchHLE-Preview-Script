@@ -15,7 +15,7 @@ Steps to install TouchHLE Preview for Windows:
 1. Go to this link and Download the latest
 1.. Preview build: https://touchhle.org/download/
 2. Extract the zip files in a folder.
-3. Download COD WAW 1.1.0.api from the link.
+3. Download COD WAW 1.1.0.ipa from the link.
 4. https://archive.org/download/COD_Zombies_1.1.0_ios_2.2.1/COD_Zombies_1.1.0_ios_2.2.1.ipa
 5. Copy Zombies.ipa to touchHLE Folder.
 6. Drag the Zombies.ipa over the touchHLE.exe file and release the left mouse button.
