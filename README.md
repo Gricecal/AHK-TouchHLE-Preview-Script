@@ -3,12 +3,7 @@ I don't want others to go through what
 I had to go through I decided to
 upload and share my script file.
 
-THIS IS NOT THE FINISHED SCRIPT!!
-
-I uploaded an OLD version of it.
-I did this since it's the only version
-I have on my phone. I will upload
-the finished script soon!
+EDIT: I uploaded the finished script!!
 
 Steps to install TouchHLE Preview for Windows:
 
@@ -31,9 +26,11 @@ Press J to throw grenade.
 Press B to rebuild/take guns off the wall.
 Press Space to Knife.
 Press P to pause the game.
-Press and hold W to hold click and then move the mouse in the direction you want to walk.
-Release W button to stop walking
-
+Press and hold W to walk forward.
+Release W to stop walking forward.
+Press A button to strafe left.
+Press S button to Move Backwards.
+Press D button to strafe right.
 Press and hold T then move the mouse to look around the room in the game.
 Release T key to stop looking.
 
