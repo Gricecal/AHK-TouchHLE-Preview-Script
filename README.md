@@ -19,20 +19,20 @@ Steps to install TouchHLE Preview for Windows:
 
 Current keyboard buttons:
 
-Press K to shoot.
-Press 1 to reload/switch weapons.
-Press L to aim.
-Press J to throw grenade.
-Press B to rebuild/take guns off the wall.
-Press Space to Knife.
-Press P to pause the game.
-Press and hold W to walk forward.
-Release W to stop walking forward.
-Press A button to strafe left.
-Press S button to Move Backwards.
-Press D button to strafe right.
-Press and hold T then move the mouse to look around the room in the game.
-Release T key to stop looking.
+1. Press K to shoot.
+2. Press 1 to reload/switch weapons.
+3. Press L to aim.
+4. Press J to throw grenade.
+5. Press B to rebuild/take guns off the wall.
+6. Press Space to Knife.
+7. Press P to pause the game.
+8. Press and hold W to walk forward.
+8.. Release W to stop walking forward.
+9. Press A button to strafe left.
+10. Press S button to Move Backwards.
+11. Press D button to strafe right.
+12. Press and hold T then move the mouse 12.. to look around the room in the game.
+12... Release T key to stop looking.
 
 Steps to install:
 
