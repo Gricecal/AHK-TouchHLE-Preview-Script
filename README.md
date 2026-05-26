@@ -16,11 +16,11 @@ Press K to shoot.
 Press 1 to reload/switch weapons.
 Press L to aim.
 Press J to throw grenade.
-Press and hold W to hold click and then move
-the mouse in the direction you want to walk.
+Press and hold W to hold click and then move the mouse in the direction you want to walk.
 Release W button to stop walking
-Press and hold T then move the mouse to look
-around the room in the game.
+
+Press and hold T then move the mouse to look around the room in the game.
+Release T key to stop looking.
 
 Steps to install:
 
