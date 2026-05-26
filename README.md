@@ -5,7 +5,7 @@ upload and share my script file.
 
 THIS IS NOT THE FINISHED SCRIPT!!
 
-I uploaded and OLD version of it.
+I uploaded an OLD version of it.
 I did this since it's the only version
 I have on my phone. I will upload
 the finished script soon!
