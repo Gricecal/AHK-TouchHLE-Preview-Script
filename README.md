@@ -16,6 +16,9 @@ Press K to shoot.
 Press 1 to reload/switch weapons.
 Press L to aim.
 Press J to throw grenade.
+Press B to rebuild/take guns off the wall.
+Press Space to Knife.
+Press P to pause the game.
 Press and hold W to hold click and then move the mouse in the direction you want to walk.
 Release W button to stop walking
 
