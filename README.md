@@ -7,15 +7,13 @@ EDIT: I uploaded the finished script!!
 
 Steps to install TouchHLE Preview for Windows:
 
-1. Go to this link and Download the latest
-1.. Preview build: https://touchhle.org/download/
+1. Download touchHLE windows x64 I uploaded to Github.
 2. Extract the zip files in a folder.
 3. Download COD WAW 1.1.0.ipa from the link.
 4. https://archive.org/download/COD_Zombies_1.1.0_ios_2.2.1/COD_Zombies_1.1.0_ios_2.2.1.ipa
 5. Copy Zombies.ipa to touchHLE Folder.
 6. Drag the Zombies.ipa over the touchHLE.exe file and release the left mouse button.
 7. Enjoy!!
-8. PS: You need a github account to download the latest Preview build in order for this to work!!
 
 Current keyboard buttons:
 
@@ -36,10 +34,9 @@ Current keyboard buttons:
 
 Steps to install:
 
-1. Download the script .txt file from above.
+1. Download the script .ahk file from above.
 2. Download AutoHotKey version 2 from 
 2.. website. https://www.autohotkey.com/v2/
 3. Install AHK from your downloaded file.
-4. Rename the extension file from .txt to .ahk
-5. Double click the .ahk file you renamed and...
-6. Enjoy!!
+4. Double click the .ahk file you renamed and...
+5. Enjoy!!
