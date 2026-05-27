@@ -5,6 +5,15 @@ upload and share my script file.
 
 EDIT: I uploaded the finished script!!
 
+Steps to install:
+
+1. Download the script .ahk file from above.
+2. Download AutoHotKey version 2 from 
+2.. website. https://www.autohotkey.com/v2/
+3. Install AHK from your downloaded file.
+4. Double click the .ahk file you renamed and...
+5. Enjoy!!
+
 Steps to install TouchHLE Preview for Windows:
 
 1. Download touchHLE windows x64 I uploaded to Github.
@@ -31,12 +40,3 @@ Current keyboard buttons:
 11. Press D button to strafe right.
 12. Press and hold T then move the mouse 12.. to look around the room in the game.
 12... Release T key to stop looking.
-
-Steps to install:
-
-1. Download the script .ahk file from above.
-2. Download AutoHotKey version 2 from 
-2.. website. https://www.autohotkey.com/v2/
-3. Install AHK from your downloaded file.
-4. Double click the .ahk file you renamed and...
-5. Enjoy!!
